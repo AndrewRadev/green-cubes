@@ -4,4 +4,4 @@ You can go [here](http://demos.andrewradev.com/green-cubes/) for a live demo. A 
 
 Here's a screenshot:
 
-![Demo](http://i.andrewradev.com/e5cafaf2f63bd7f2471b38a3b7dff943.png)
+![Demo](https://raw.githubusercontent.com/AndrewRadev/green-cubes/master/screenshot.png)
